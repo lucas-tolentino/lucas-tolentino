@@ -22,7 +22,7 @@
 
 ### 🧠 Sobre Mim
 
-Sou estudante de Ciência da Computação (3º período) com foco total em desenvolvimento backend e automação de processos. Atuo como Freelancer em consultoria técnica, transformando fluxos manuais em sistemas inteligentes e escaláveis. Especialista em integrar APIs de IA e ferramentas de automação para aumentar a eficiência operacional e gerar valor através dos dados.
+Sou estudante de Ciência da Computação (3º período) com foco total em desenvolvimento backend e automação de processos. Atuo transformando fluxos manuais em sistemas inteligentes e escaláveis. Especialista em integrar APIs de IA e ferramentas de automação para aumentar a eficiência operacional e gerar valor através dos dados.
 
 ---
 
