@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="160" style="border-radius:50%; border: 3px solid #3670A0" alt="Lucas Tolentino" />
+  <!-- Banner de Fundo (Floresta) -->
+  <img src="LINK_DA_IMAGEM_DA_FLORESTA" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
-<h1 align="center">Lucas</h1>
+<p align="center">
+  <!-- Sua Foto Redonda (Sobreposta) -->
+  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="140" style="border-radius:50%; border: 4px solid #0D1117; margin-top: -80px; position: relative;" alt="Lucas Tolentino" />
+</p>
+
+<h1 align="center">Lucas Tolentino</h1>
 
 <p align="center">
   <strong>🚀 Backend Developer focado em automação de processos, APIs e Inteligência Artificial</strong><br>
