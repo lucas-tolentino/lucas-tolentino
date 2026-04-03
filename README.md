@@ -1,9 +1,10 @@
 <p align="center">
-  <!-- Banner de Fundo (Floresta) -->
-  <img src="parallax-animation-forest-mountains-background-footage-170788663_iconl.webp" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/NOME_DA_SUA_IMAGEM.png" width="100%" height="250px" style="object-fit: cover; border-radius: 15px;" alt="Banner Lucas Tolentino" />
 </p>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="150" style="border-radius:50%; border: 5px solid #0D1117; margin-top: -100px; position: relative;" alt="Foto Lucas Tolentino" />
+</p>
   <!-- Sua Foto Redonda (Sobreposta) -->
   <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="140" style="border-radius:50%; border: 4px solid #0D1117; margin-top: -80px; position: relative;" alt="Lucas Tolentino" />
 </p>
